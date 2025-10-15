@@ -9,7 +9,6 @@ A simple and intuitive Python application that retrieves real-time weather data 
 - Fetch **current weather conditions** for any city.
 - Display **temperature, humidity, and weather description**.
 - **Error handling** for invalid cities or API connection issues.
-- Lightweight and beginner-friendly code structure.
 
 ---
 
